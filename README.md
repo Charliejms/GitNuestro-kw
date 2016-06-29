@@ -21,7 +21,6 @@ Git nuestro :)
 >No, causa ningun conflicto ya que se ha modificado el archivo de la rama styled. Y la rama master absorbe la cambios realizados en la rama styled.
 
 4. **Paso 19** Hacer un merge de “htmlify” en “styled” *styled absorbe a htmlify*
-  **Error probar otra vez**
 >Si, genera un conflicto cuando se absorbe la rama. Aunque Git es muy listo no lo sabe resolver y se mantiene a la espera de que hagamos un commit con los cambios resolviendo los conflictos.
 
 5. **Paso 21** Desde “master”, hacer un merge con “styled” *master absorbe a styled*
