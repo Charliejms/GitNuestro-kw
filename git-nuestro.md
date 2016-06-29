@@ -1,6 +1,7 @@
-##Git Richard nuestro
+<h1>Git Richard nuestro</h1>
 
 
+-----------------------------
 Git nuestro que estas en los repos
 
 Comprimidos sean tus commits
