@@ -22,7 +22,7 @@ Git nuestro :)
 
 4. **Paso 19** Hacer un merge de “htmlify” en “styled” *styled absorbe a htmlify*
   **Error probar otra vez**
->No, la rama style absorbe el trabajo realizado en la rama htmlify, ya que al estat en la misma lista solo actiza la rama hasta ese punto.
+>Si, genera un conflicto cuando se absorbe la rama. Aunque Git es muy listo no lo sabe resolver y se mantiene a la espera de que hagamos un commit con los cambios resolviendo los conflictos.
 
 5. **Paso 21** Desde “master”, hacer un merge con “styled” *master absorbe a styled*
 >No, porque del mismo modo se actuliza la rama al listado correspondiente al que apuntan las ramas.
